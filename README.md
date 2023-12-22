@@ -20,7 +20,7 @@ This project is a number guessing game created using HTML, CSS, and JavaScript. 
 
 ## How to Run the Game
 
-You can simply open the HTML file (`index.html`) in your preferred web browser to start playing the game.
+You can simply open the HTML file in your preferred web browser to start playing the game.
 
 ## File Structure
 
