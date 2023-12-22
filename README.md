@@ -22,12 +22,6 @@ This project is a number guessing game created using HTML, CSS, and JavaScript. 
 
 You can simply open the HTML file in your preferred web browser to start playing the game.
 
-## File Structure
-
-- `index.html`: Contains the game HTML structure and elements.
-- `style.css`: CSS file for basic styling of the game elements.
-- `script.js`: JavaScript file handling the game logic.
-
 ## Contribution
 
 Feel free to contribute to this project by adding new features, improving the code, or fixing any issues. Fork this repository, make your changes, and submit a pull request.
