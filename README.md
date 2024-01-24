@@ -18,6 +18,12 @@ This project is a number guessing game created using HTML, CSS, and JavaScript. 
 - Notifies the user when the game is won or lost.
 - Allows the user to start a new game after completion.
 
+## Deployment
+
+You can play the Number Guessing Game by visiting the deployed version:
+
+[Play Number Guessing Game](guess-number-6mcw.vercel.app/)
+
 ## How to Run the Game
 
 You can simply open the HTML file in your preferred web browser to start playing the game.
