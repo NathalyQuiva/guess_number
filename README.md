@@ -20,7 +20,7 @@ This project is a number guessing game created using HTML, CSS, and JavaScript. 
 
 ## Deployment
 
-You can play the Number Guessing Game by visiting the deployed version:
+You can play the Number Guessing Game by visiting the Vercel deployed version:
 
 [Play Number Guessing Game](https://guess-number-6mcw.vercel.app/)
 
