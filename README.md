@@ -22,7 +22,7 @@ This project is a number guessing game created using HTML, CSS, and JavaScript. 
 
 You can play the Number Guessing Game by visiting the deployed version:
 
-[Play Number Guessing Game](guess-number-6mcw.vercel.app/)
+[Play Number Guessing Game](https://guess-number-6mcw.vercel.app/)
 
 ## How to Run the Game
 
